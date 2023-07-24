@@ -33,7 +33,7 @@ Project: Tip Calculator
 
 Day 3: 
 ------
-
+Project: The Treasure Island Game
 
 
 Day 4: 
