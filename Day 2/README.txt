@@ -1,5 +1,27 @@
+
 -----------------------------------------------
-|o       Project Name: Tip Calculator        o|
+|P-1         Name Character Length           o|
+-----------------------------------------------
+|                                             |
+| Created by: Adeel Ahmed                     |
+| Git: cheelboy                               |
+| Language: Python                            |
+| Difficulty: Beginner                        |
+|                                             |
+-----------------------------------------------
+
+What is this project about? 
+
+This project is a "Name Character Length Calculator" which takes an input from the user 
+in the data-type of String and calculates the sum of the total characters.
+
+What did I learn from this project? 
+
+1) Data Types
+5) Math Operators
+
+-----------------------------------------------
+|P-2            Tip Calculator               o|
 -----------------------------------------------
 |                                             |
 | Created by: Adeel Ahmed                     |
