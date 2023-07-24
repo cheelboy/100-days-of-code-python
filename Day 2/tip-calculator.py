@@ -4,7 +4,7 @@ print("-----------------------------------------------")
 
 bill = input("How much is the total bill? $")
 persons = input("How many people to split the bill? ")
-tip = input("How much tip would you like to pay? 10%, 15%, 20%? ")
+tip = input("How much tip would you like to pay? 10%, 15%, 20% ? ")
 
 bill_per_person = int(bill) / int(persons)
 
