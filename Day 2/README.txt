@@ -43,6 +43,29 @@ What did I learn from this project?
 3) Math Operators
 
 -----------------------------------------------
+|P-2            BMI Calculator               o|
+-----------------------------------------------
+|                                             |
+| Created by: Adeel Ahmed                     |
+| Git: cheelboy                               |
+| Language: Python                            |
+| Difficulty: Beginner                        |
+|                                             |
+-----------------------------------------------
+
+What is this project about?
+
+This project is called "BMI Calculator" which takes an input of 2 digits from the user
+in the data-type of Float as weight and height, and calculates the BMI.
+
+What did I learn from this project?
+
+1) Data Types
+2) Character Index
+3) Math Operators
+
+
+-----------------------------------------------
 |P-3            Tip Calculator               o|
 -----------------------------------------------
 |                                             |
