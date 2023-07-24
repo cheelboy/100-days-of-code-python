@@ -9,5 +9,6 @@ tip = input("How much tip would you like to pay? 10%, 15%, 20% ? ")
 bill_per_person = int(bill) / int(persons)
 
 tip_per_person = bill_per_person + (bill_per_person * int(tip)/100)
+tip_per_person = tip_per_person / float(persons)
 
 print('The tip per person is: ' + "$" + str(tip_per_person))
