@@ -43,7 +43,7 @@ What did I learn from this project?
 3) Math Operators
 
 -----------------------------------------------
-|P-2            BMI Calculator               o|
+|P-3            BMI Calculator               o|
 -----------------------------------------------
 |                                             |
 | Created by: Adeel Ahmed                     |
@@ -64,9 +64,29 @@ What did I learn from this project?
 2) Character Index
 3) Math Operators
 
+-----------------------------------------------
+|P-3           About Me Generator            o|
+-----------------------------------------------
+|                                             |
+| Created by: Adeel Ahmed                     |
+| Git: cheelboy                               |
+| Language: Python                            |
+| Difficulty: Beginner                        |
+|                                             |
+-----------------------------------------------
+
+What is this project about?
+
+This project is called "About Me Generator" which is a practice to
+pass the values in a F String format. It takes some input from the user and
+creates an about-me description.
+
+What did I learn from this project?
+
+1) F String
 
 -----------------------------------------------
-|P-3            Tip Calculator               o|
+|P-5            Tip Calculator               o|
 -----------------------------------------------
 |                                             |
 | Created by: Adeel Ahmed                     |
