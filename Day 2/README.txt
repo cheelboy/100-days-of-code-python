@@ -1,13 +1,6 @@
 
 -----------------------------------------------
-|P-1         Name Character Length           o|
------------------------------------------------
-|                                             |
-| Created by: Adeel Ahmed                     |
-| Git: cheelboy                               |
-| Language: Python                            |
-| Difficulty: Beginner                        |
-|                                             |
+|P-2         Name Character Length           o|
 -----------------------------------------------
 
 What is this project about? 
@@ -21,14 +14,7 @@ What did I learn from this project?
 3) Math Operators
 
 -----------------------------------------------
-|P-2            Sum of 2 Digits              o|
------------------------------------------------
-|                                             |
-| Created by: Adeel Ahmed                     |
-| Git: cheelboy                               |
-| Language: Python                            |
-| Difficulty: Beginner                        |
-|                                             |
+|P-3            Sum of 2 Digits              o|
 -----------------------------------------------
 
 What is this project about? 
@@ -43,14 +29,7 @@ What did I learn from this project?
 3) Math Operators
 
 -----------------------------------------------
-|P-3            BMI Calculator               o|
------------------------------------------------
-|                                             |
-| Created by: Adeel Ahmed                     |
-| Git: cheelboy                               |
-| Language: Python                            |
-| Difficulty: Beginner                        |
-|                                             |
+|P-4            BMI Calculator               o|
 -----------------------------------------------
 
 What is this project about?
@@ -65,14 +44,7 @@ What did I learn from this project?
 3) Math Operators
 
 -----------------------------------------------
-|P-4           About Me Generator            o|
------------------------------------------------
-|                                             |
-| Created by: Adeel Ahmed                     |
-| Git: cheelboy                               |
-| Language: Python                            |
-| Difficulty: Beginner                        |
-|                                             |
+|P-5           About Me Generator            o|
 -----------------------------------------------
 
 What is this project about?
@@ -86,14 +58,7 @@ What did I learn from this project?
 1) f String
 
 -----------------------------------------------
-|P-5        Years Left Calculator            o|
------------------------------------------------
-|                                             |
-| Created by: Adeel Ahmed                     |
-| Git: cheelboy                               |
-| Language: Python                            |
-| Difficulty: Beginner                        |
-|                                             |
+|P-6        Years Left Calculator            o|
 -----------------------------------------------
 
 What is this project about?
@@ -108,14 +73,7 @@ What did I learn from this project?
 2) f String
 
 -----------------------------------------------
-|P-6            Tip Calculator               o|
------------------------------------------------
-|                                             |
-| Created by: Adeel Ahmed                     |
-| Git: cheelboy                               |
-| Language: Python                            |
-| Difficulty: Beginner                        |
-|                                             |
+|P-7            Tip Calculator               o|
 -----------------------------------------------
 
 What is this project about? 

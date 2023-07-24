@@ -19,21 +19,29 @@ Day 1 to _ is Beginner Level
 Day _ to _ is Intermediate Level
 Day _ to _ is Advanced Level
 
+To see description of each project, please see README.txt of each day.
+
 Here are the following projects I created each day:
 
 Day 1: 
 ------
-Project: Band Name Generator
+Project #1: Band Name Generator
 
 
 Day 2: 
 ------
-Project: Tip Calculator
+Project #2: Name Characters Length Calculator
+Project #3: Sum of 2 Digits
+Project #4: BMI Calculator
+Project #5: About-Me Generator
+Project #6: Years Left Calculator
+Project #7: Tip Calculator
+
 
 
 Day 3: 
 ------
-Project: The Treasure Island Game
+Project #8: The Treasure Island Game
 
 
 Day 4: 

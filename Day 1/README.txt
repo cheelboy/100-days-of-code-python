@@ -1,13 +1,7 @@
 -----------------------------------------------
-|o     Project Name: Band Name Generator     o|
+|P-1         Band Name Generator             o|
 -----------------------------------------------
-|                                             |
-| Created by: Adeel Ahmed                     |
-| Git: cheelboy                               |
-| Language: Python                            |
-| Difficulty: Beginner                        |
-|                                             |
------------------------------------------------
+
 
 What is this project about? 
 
