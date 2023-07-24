@@ -1,3 +1,8 @@
+print("-----------------------------------------------")
+print("|            Welcome To 2 Digits Sum          |")
+print("-----------------------------------------------")
+
+
 number = input("Enter a 2 digits number: ")
 
 first_digit = number[0]
