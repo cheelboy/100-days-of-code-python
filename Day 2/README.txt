@@ -65,7 +65,7 @@ What did I learn from this project?
 3) Math Operators
 
 -----------------------------------------------
-|P-3           About Me Generator            o|
+|P-4           About Me Generator            o|
 -----------------------------------------------
 |                                             |
 | Created by: Adeel Ahmed                     |
@@ -83,10 +83,32 @@ creates an about-me description.
 
 What did I learn from this project?
 
-1) F String
+1) f String
 
 -----------------------------------------------
-|P-5            Tip Calculator               o|
+|P-5        Years Left Calculator            o|
+-----------------------------------------------
+|                                             |
+| Created by: Adeel Ahmed                     |
+| Git: cheelboy                               |
+| Language: Python                            |
+| Difficulty: Beginner                        |
+|                                             |
+-----------------------------------------------
+
+What is this project about?
+
+This project is called "Years Left Calculator" which is a practice to
+pass the input values in a F String format. It takes age as an input from the user and
+calculates how many days, weeks, months and years are left till they are 90 years old.
+
+What did I learn from this project?
+
+1) Math Operators
+2) f String
+
+-----------------------------------------------
+|P-6            Tip Calculator               o|
 -----------------------------------------------
 |                                             |
 | Created by: Adeel Ahmed                     |
